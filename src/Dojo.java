@@ -13,8 +13,11 @@ public static void Bizz(int n){
 	if(n%3==0){
 	System.out.println("BIZZ");
 	}
+}
+public static void Buzz(int n){
+	int var=n;
 	if(n%5==0){
-		System.out.println("BuZZ");
-		}
+	System.out.println("BuZZ");
+	}
 }
 }
